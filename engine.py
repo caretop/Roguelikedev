@@ -404,7 +404,7 @@ def play_game(player, entities, game_map, message_log, game_state, con, panel, a
                     fov_recompute = True
                     message = kill_monster(dead_entity)
                     
-                    
+                    pass
 
                 message_log.add_message(message)
 
